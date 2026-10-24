@@ -1,5 +1,7 @@
 # 🛰️ RC Car — Mission Control
 
+![The RC car with its IR sensors, wheel encoders and motor driver](docs/screenshot.webp)
+
 A real-time telemetry and remote-control system for an RC car, built with a **Raspberry Pi + Arduino + PC** architecture. The system provides live sensor monitoring, manual driving controls, telemetry recording, and post-session race analysis — all through polished dark-themed desktop interfaces.
 
 ## Architecture Overview
